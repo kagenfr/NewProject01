@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Yeni {
+public class Yeni {
+    public static void main(String[] args) {
+
+    }
 }
